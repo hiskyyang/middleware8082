@@ -1,0 +1,16 @@
+C:\Hisky\workspace\711\middleware8082\bin\Debug\middleware8082.exe.config
+C:\Hisky\workspace\711\middleware8082\bin\Debug\middleware8082.exe.manifest
+C:\Hisky\workspace\711\middleware8082\bin\Debug\middleware8082.application
+C:\Hisky\workspace\711\middleware8082\bin\Debug\middleware8082.exe
+C:\Hisky\workspace\711\middleware8082\bin\Debug\middleware8082.pdb
+C:\Hisky\workspace\711\middleware8082\bin\Debug\Newtonsoft.Json.dll
+C:\Hisky\workspace\711\middleware8082\bin\Debug\Newtonsoft.Json.xml
+C:\Hisky\workspace\711\middleware8082\obj\Debug\middleware8082.csproj.AssemblyReference.cache
+C:\Hisky\workspace\711\middleware8082\obj\Debug\middleware8082.Properties.Resources.resources
+C:\Hisky\workspace\711\middleware8082\obj\Debug\middleware8082.csproj.GenerateResource.cache
+C:\Hisky\workspace\711\middleware8082\obj\Debug\middleware8082.csproj.CoreCompileInputs.cache
+C:\Hisky\workspace\711\middleware8082\obj\Debug\middleware8082.exe.manifest
+C:\Hisky\workspace\711\middleware8082\obj\Debug\middleware8082.application
+C:\Hisky\workspace\711\middleware8082\obj\Debug\middlewa.66621F08.Up2Date
+C:\Hisky\workspace\711\middleware8082\obj\Debug\middleware8082.exe
+C:\Hisky\workspace\711\middleware8082\obj\Debug\middleware8082.pdb
